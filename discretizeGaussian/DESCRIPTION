@@ -1,0 +1,15 @@
+Package: discretizeGaussian
+Title: Various methods to discretize uni and bivariate normal distributed
+    random variables
+Description: Contain functions for discritizing an uni/bivariate normal
+    distribution. Both uniform and nonuniform discretization possible.
+Version: 1.0
+Author: Lars Relund \email{lars@relund.dk}
+Date: 2014-03-18
+Depends:
+    R (>= 3.0.2),
+    R.oo,
+    mvtnorm
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
